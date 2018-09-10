@@ -1,0 +1,36 @@
+ul li {
+    padding-bottom: 15px;
+    list-style-type: circle;
+}
+
+ul li:hover {
+    list-style-type: disc;
+    color:#41CB83;
+}
+
+ul li a {
+    text-decoration: none;
+    font-family: 微软雅黑;
+    font-size: 14px;
+    color: black;
+}
+
+.title {
+	  position:absolute;
+	  top: 3px;
+	  left: 270px;
+	  font-size: 23px;
+}
+
+.gdyx1, .gdyx2, .gdyx3, .gdyx4{
+    float: left;
+    margin-left: 5%;
+}
+
+.end {
+    position:absolute;
+    bottom:0px;
+}
+
+
+
